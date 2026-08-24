@@ -52,3 +52,10 @@ npm run build
 ```bash
 npm run preview
 ```
+## Project ScreenShorts
+![Project Screenshot](https://github.com/surindermeena/Furniture-inVite-/blob/main/img1.png)
+![Project Screenshot](https://github.com/surindermeena/Furniture-inVite-/blob/main/img2'.png)
+![Project Screenshot](https://github.com/surindermeena/Furniture-inVite-/blob/main/img3.png)
+![Project Screenshot](https://github.com/surindermeena/Furniture-inVite-/blob/main/img4.png)
+![Project Screenshot](https://github.com/surindermeena/Furniture-inVite-/blob/main/img5.png)
+
