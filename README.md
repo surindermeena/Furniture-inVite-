@@ -1,4 +1,4 @@
-# Crono Trend
+# Furni
 
 A simple furniture website built with **React** and **Vite**.
 
